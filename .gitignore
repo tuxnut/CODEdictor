@@ -1,3 +1,11 @@
+# Obj_dir
+obj
+obj/*
+
+# Build_fir
+build
+build/*
+
 # Prerequisites
 *.d
 
